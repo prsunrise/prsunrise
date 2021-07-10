@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @prsunrise
+- 👀 I’m interested in learning everything surrounding Data Analytics ...
+- 🌱 I’m currently learning Python and R...
+- ✈✈✈  I love to travel and can"t wait for quarantines to be over with...
+
+<!---
+prsunrise/prsunrise is a ✨ special ✨ repository
+--->
+ 
